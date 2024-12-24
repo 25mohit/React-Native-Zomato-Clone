@@ -5,10 +5,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## DEMO Video
-<video controls width="800">
-  <source src="./assets/video/REC-20241224160321.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Download and Play the DEMO Video](./assets/video/REC-20241224160321.mp4)
+
 
 ## Step 1: Start the Metro Server
 
